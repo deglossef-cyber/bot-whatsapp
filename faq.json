@@ -1,0 +1,30 @@
+[
+  {
+    "keywords": ["horaires", "heure", "ouvert", "ouverture", "fermeture"],
+    "reponse": "Nous sommes ouverts du lundi au samedi, de 9h à 19h. Fermé le dimanche."
+  },
+  {
+    "keywords": ["adresse", "où", "localisation", "situe"],
+    "reponse": "Nous sommes situés au 12 rue de l'Exemple, 75000 Paris."
+  },
+  {
+    "keywords": ["prix", "tarif", "coûte", "combien"],
+    "reponse": "Nos tarifs varient selon le service. Peux-tu préciser ce qui t'intéresse pour que je te donne un prix exact ?"
+  },
+  {
+    "keywords": ["livraison", "délai", "expédition"],
+    "reponse": "Les délais de livraison sont de 3 à 5 jours ouvrés en France métropolitaine."
+  },
+  {
+    "keywords": ["contact", "appeler", "téléphone", "email", "mail"],
+    "reponse": "Tu peux nous joindre par email à contact@exemple.com ou par téléphone au 01 23 45 67 89."
+  },
+  {
+    "keywords": ["bonjour", "salut", "hello", "coucou"],
+    "reponse": "Bonjour 👋 Comment puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "keywords": ["merci"],
+    "reponse": "Avec plaisir 😊 N'hésite pas si tu as d'autres questions !"
+  }
+]
